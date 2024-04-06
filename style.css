@@ -60,15 +60,15 @@ body {
 }
 
 .profile-picture {
-  width: 32px;
+  width: 30px;
   height: 32px;
   border-radius: 50%;
   object-fit: cover;
 }
 
 .toggle {
-  width: 40px;
-  height: 20px;
+  width: 42px;
+  height: 22px;
   background-color: white;
   border-radius: 30px;
   display: flex;
@@ -86,7 +86,7 @@ body {
   height: 18px;
   background-color: black;
   position: absolute;
-  right: 1px;
+  right: 2px;
   border-radius: 50%;
   cursor: pointer;
   transition: 1s ease all;
